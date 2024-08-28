@@ -70,7 +70,7 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
             {
                 db.Entry(producto).State = EntityState.Modified;
                 db.SaveChanges();
-                return RedirectToAction("DetallesCliente", new { id = producto.CodigoProducto });
+                return RedirectToAction("ListaProductos", new { id = producto.CodigoProducto });
             }
             return View(producto);
         }

@@ -193,11 +193,17 @@
     <Content Include="Views\Usuario\Login.cshtml" />
     <Content Include="Views\Usuario\Register.cshtml" />
     <Content Include="Views\Producto\ListaProductos.cshtml" />
+    <Content Include="Views\Producto\EditarProducto.cshtml" />
+    <Content Include="Views\Producto\CrearProducto.cshtml" />
+    <Content Include="Views\Producto\EliminarProducto.cshtml" />
+    <Content Include="Views\Pedido\ListaPedido.cshtml" />
+    <Content Include="Views\Pedido\CrearPedido.cshtml" />
+    <Content Include="Views\Pedido\EditarPedido.cshtml" />
+    <Content Include="Views\Pedido\EliminarPedido.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Carrito\" />
-    <Folder Include="Views\Pedido\" />
     <Folder Include="Views\Resena\" />
   </ItemGroup>
   <ItemGroup>

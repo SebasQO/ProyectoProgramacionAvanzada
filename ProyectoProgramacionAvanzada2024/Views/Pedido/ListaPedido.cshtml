@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ProyectoProgramacionAvanzada2024.Models.Pedido>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ListaPedido</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CodigoUsuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CodigoUsuario)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fecha)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "EditarPedido", new { id = item.CodigoPedido })                
+                    @Html.ActionLink("Delete", "EliminarPedido", new { id = item.CodigoPedido })
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>
