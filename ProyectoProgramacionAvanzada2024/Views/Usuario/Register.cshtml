@@ -1,0 +1,49 @@
+﻿@model ProyectoProgramacionAvanzada2024.Models.Usuario
+
+@{
+    ViewBag.Title = "Registro";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register</title>
+</head>
+<body>
+
+
+    <h2>Registro</h2>
+
+    @using (Html.BeginForm("Register", "Usuario", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>Usuario</h4>
+            <hr />
+            <div class="form-group">
+                @Html.LabelFor(model => model.NombreUsuario, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.NombreUsuario, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.NombreUsuario, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Contrasena, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.PasswordFor(model => model.Contrasena, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.Contrasena, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Registrar" class="btn btn-primary" />
+                </div>
+            </div>
+        </div>
+    }
+
+</body>
+</html>

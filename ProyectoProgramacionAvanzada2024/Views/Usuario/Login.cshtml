@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Iniciar Sesión";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <h2>Iniciar Sesión</h2>
+
+    @using (Html.BeginForm("Login", "Usuario", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>Iniciar Sesión</h4>
+            <hr />
+            <div class="form-group">
+                @Html.Label("Nombre de Usuario", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBox("nombreUsuario", null, new { @class = "form-control" })
+                    @Html.ValidationMessage("nombreUsuario", "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Contraseña", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.Password("contrasena", null, new { @class = "form-control" })
+                    @Html.ValidationMessage("contrasena", "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Iniciar Sesión" class="btn btn-primary" />
+                </div>
+            </div>
+        </div>
+    }
+</body>
+</html>
