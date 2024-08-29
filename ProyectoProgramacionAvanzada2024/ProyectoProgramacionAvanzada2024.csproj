@@ -120,6 +120,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\CarritoController.cs" />
     <Compile Include="Controllers\ClienteController.cs" />
+    <Compile Include="Controllers\ContactController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PedidoController.cs" />
     <Compile Include="Controllers\ProductoController.cs" />
@@ -226,6 +227,7 @@
     <Content Include="Views\Carrito\DetallesCarrito.cshtml" />
     <Content Include="Views\Carrito\EditarCarrito.cshtml" />
     <Content Include="Views\Carrito\EliminarCarrito.cshtml" />
+    <Content Include="Views\Contact\Contact.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

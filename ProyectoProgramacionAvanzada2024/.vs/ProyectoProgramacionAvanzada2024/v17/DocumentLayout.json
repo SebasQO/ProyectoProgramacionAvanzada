@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\ricky\\documents\\github\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\producto\\listaproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\producto\\listaproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\ricky\\documents\\github\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\ricky\\documents\\github\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\ricky\\documents\\github\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\ricky\\documents\\github\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\ricky\\documents\\github\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\views\\carrito\\listacarritos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\carrito\\listacarritos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -55,20 +83,12 @@
       "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\producto\\detallesproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\producto\\listaproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\producto\\listaproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\producto\\crearproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\producto\\crearproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -130,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 53,
+          "SelectedChildIndex": 55,
           "Children": [
             {
               "$type": "Bookmark",
@@ -345,21 +365,94 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Contact\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Contact\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T19:06:06.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:05:23.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:03:16.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:03:10.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Usuario\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Usuario\\Login.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T19:01:51.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ListaCarritos.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Carrito\\ListaCarritos.cshtml",
               "RelativeDocumentMoniker": "Views\\Carrito\\ListaCarritos.cshtml",
               "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Carrito\\ListaCarritos.cshtml",
               "RelativeToolTip": "Views\\Carrito\\ListaCarritos.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-29T18:17:32.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "CarritoController.cs",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\CarritoController.cs",
               "RelativeDocumentMoniker": "Controllers\\CarritoController.cs",
@@ -372,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
@@ -385,7 +478,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T02:14:53.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaProductos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\ListaProductos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producto\\ListaProductos.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\ListaProductos.cshtml",
+              "RelativeToolTip": "Views\\Producto\\ListaProductos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T21:17:05.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "EliminarProducto.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\EliminarProducto.cshtml",
               "RelativeDocumentMoniker": "Views\\Producto\\EliminarProducto.cshtml",
@@ -398,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "EditarProducto.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\EditarProducto.cshtml",
               "RelativeDocumentMoniker": "Views\\Producto\\EditarProducto.cshtml",
@@ -411,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "DetallesCarrito.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Carrito\\DetallesCarrito.cshtml",
               "RelativeDocumentMoniker": "Views\\Carrito\\DetallesCarrito.cshtml",
@@ -424,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "EliminarCarrito.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Carrito\\EliminarCarrito.cshtml",
               "RelativeDocumentMoniker": "Views\\Carrito\\EliminarCarrito.cshtml",
@@ -437,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "EditarCarrito.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Carrito\\EditarCarrito.cshtml",
               "RelativeDocumentMoniker": "Views\\Carrito\\EditarCarrito.cshtml",
@@ -450,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "CrearCarrito.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Carrito\\CrearCarrito.cshtml",
               "RelativeDocumentMoniker": "Views\\Carrito\\CrearCarrito.cshtml",
@@ -463,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Carrito.cs",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\Carrito.cs",
               "RelativeDocumentMoniker": "Models\\Carrito.cs",
@@ -475,16 +594,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
@@ -497,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "Models\\Producto.cs",
@@ -510,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
@@ -523,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "DetallesProducto.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\DetallesProducto.cshtml",
               "RelativeDocumentMoniker": "Views\\Producto\\DetallesProducto.cshtml",
@@ -536,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Models\\Cliente.cs",
@@ -549,20 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ListaProductos.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\ListaProductos.cshtml",
-              "RelativeDocumentMoniker": "Views\\Producto\\ListaProductos.cshtml",
-              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\ListaProductos.cshtml",
-              "RelativeToolTip": "Views\\Producto\\ListaProductos.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T21:17:05.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "CrearProducto.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\CrearProducto.cshtml",
               "RelativeDocumentMoniker": "Views\\Producto\\CrearProducto.cshtml",
@@ -575,20 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T02:14:53.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "DetallesCliente.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\DetallesCliente.cshtml",
               "RelativeDocumentMoniker": "Views\\Cliente\\DetallesCliente.cshtml",
@@ -601,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "EliminarCliente.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\EliminarCliente.cshtml",
               "RelativeDocumentMoniker": "Views\\Cliente\\EliminarCliente.cshtml",
@@ -614,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "EditarCliente.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\EditarCliente.cshtml",
               "RelativeDocumentMoniker": "Views\\Cliente\\EditarCliente.cshtml",
@@ -627,7 +712,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "CrearCliente.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\CrearCliente.cshtml",
               "RelativeDocumentMoniker": "Views\\Cliente\\CrearCliente.cshtml",
@@ -640,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "ListaClientes.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\ListaClientes.cshtml",
               "RelativeDocumentMoniker": "Views\\Cliente\\ListaClientes.cshtml",
@@ -653,7 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "DashboardViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\DashboardViewModel.cs",
               "RelativeDocumentMoniker": "Models\\DashboardViewModel.cs",
@@ -666,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -679,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -692,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
@@ -705,7 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "202408290212537_InicialCreate2.cs",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\202408290212537_InicialCreate2.cs",
               "RelativeDocumentMoniker": "Migrations\\202408290212537_InicialCreate2.cs",
@@ -718,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "202408290203105_InicialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\202408290203105_InicialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\202408290203105_InicialCreate.cs",
@@ -731,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
