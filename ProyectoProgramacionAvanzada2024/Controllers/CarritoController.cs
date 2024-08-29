@@ -1,6 +1,7 @@
 ﻿using ProyectoProgramacionAvanzada2024.Models;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -11,13 +12,93 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
     {
         private ApplicationDbContext db = new ApplicationDbContext();
 
+        
+        public ActionResult CartList()
+        {
+            var model = db.Carritos.ToList();
+            return View(model);
+        }
+
+        [HttpGet]
+        public ActionResult CreateCart()
+        {
+            return View();
+        }
+
+        public ActionResult CreateCart(Carrito cart)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Carritos.Add(cart);
+                db.SaveChanges();
+                return RedirectToAction("CartList");
+            }
+            return View(cart);
+        }
+
+        public ActionResult CartDetails(int id)
+        {
+            var cart = db.Carritos.Find(id);
+            if (cart == null)
+            {
+                return HttpNotFound();
+            }
+            return View(cart);
+        }
+
+        public ActionResult EditCart(int? id)
+        {
+            var cart = db.Carritos.Find(id);
+            if (cart == null)
+            {
+                return HttpNotFound();
+            }
+            return View(cart);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult EditCart(Carrito cart)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Entry(cart).State = EntityState.Modified;
+                db.SaveChanges();
+                return RedirectToAction("CartList");
+            }
+            return View(cart);
+        }
+
+        [HttpGet]
+        public ActionResult DeleteCart(int id)
+        {
+            var cart = db.Carritos.Find(id);
+            if (cart == null)
+            {
+                return HttpNotFound();
+            }
+            return View(cart);
+        }
+
+        [HttpPost, ActionName("DeleteCart")]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeleteCartConfirmed(int id)
+        {
+            var cart = db.Carritos.Find(id);
+            if (cart != null)
+            {
+                db.Carritos.Remove(cart);
+                db.SaveChanges();
+            }
+            return RedirectToAction("CartList");
+        }
+
         [HttpGet]
         public ActionResult CartView()
         {
             return View();
         }
 
-        // Agregar producto al carrito
         [HttpPost]
         public ActionResult AddToCart(int codigoProducto)
         {
@@ -38,7 +119,7 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
             return RedirectToAction("Index");
         }
 
-        // Ver carrito
+        
         public ActionResult ViewCart()
         {
             var usuario = Session["User"] as Usuario;

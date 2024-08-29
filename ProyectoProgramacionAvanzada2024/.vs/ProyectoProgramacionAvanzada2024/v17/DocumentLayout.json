@@ -1,98 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\",
+  "WorkspaceRootPath": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\producto\\eliminarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\producto\\eliminarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\ricky\\documents\\github\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\views\\cliente\\eliminarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\cliente\\eliminarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\views\\cliente\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\cliente\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\views\\cliente\\detallescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\cliente\\detallescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\views\\producto\\editarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\producto\\editarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\views\\cliente\\crearcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\cliente\\crearcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\views\\producto\\crearproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\producto\\crearproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\views\\producto\\detallesproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\producto\\detallesproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\producto\\listaproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\producto\\listaproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\views\\cliente\\listaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\cliente\\listaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\migrations\\202408290212537_inicialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\producto\\detallesproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\producto\\detallesproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\producto\\crearproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\producto\\crearproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\ricky\\documents\\github\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\views\\producto\\eliminarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\producto\\eliminarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\cliente\\eliminarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\cliente\\eliminarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\cliente\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\cliente\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\cliente\\detallescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\cliente\\detallescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\producto\\editarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\producto\\editarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\cliente\\crearcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\cliente\\crearcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\producto\\listaproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\producto\\listaproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\cliente\\listaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\cliente\\listaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\migrations\\202408290212537_inicialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:migrations\\202408290212537_inicialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\migrations\\202408290203105_inicialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\migrations\\202408290203105_inicialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:migrations\\202408290203105_inicialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|c:\\users\\jeanpieur\\documents\\prograavanzadaproyecto\\proyectoprogramacionavanzada\\proyectoprogramacionavanzada2024\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10243F2A-7C6F-46B8-B3FB-81198C3EAA8F}|ProyectoProgramacionAvanzada2024.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,8 +106,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 54,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarritoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\CarritoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarritoController.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\CarritoController.cs",
+              "RelativeToolTip": "Controllers\\CarritoController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAuwIYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:54:13.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
@@ -167,10 +188,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -298,14 +315,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
@@ -321,90 +330,16 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EliminarProducto.cshtml",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\EliminarProducto.cshtml",
-              "RelativeDocumentMoniker": "Views\\Producto\\EliminarProducto.cshtml",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\EliminarProducto.cshtml",
-              "RelativeToolTip": "Views\\Producto\\EliminarProducto.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADsAAACGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T21:16:59.1Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "Controllers\\ClienteController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAA8wDgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T00:44:11.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "Controllers\\ProductoController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAuwD4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T21:23:55.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditarCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\EditarCliente.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cliente\\EditarCliente.cshtml",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\EditarCliente.cshtml",
-              "RelativeToolTip": "Views\\Cliente\\EditarCliente.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T01:48:10.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EliminarCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\EliminarCliente.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cliente\\EliminarCliente.cshtml",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\EliminarCliente.cshtml",
-              "RelativeToolTip": "Views\\Cliente\\EliminarCliente.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAB+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T01:20:59.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DetallesCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\DetallesCliente.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cliente\\DetallesCliente.cshtml",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\DetallesCliente.cshtml",
-              "RelativeToolTip": "Views\\Cliente\\DetallesCliente.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T02:45:45.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "EditarProducto.cshtml",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\EditarProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\EditarProducto.cshtml",
               "RelativeDocumentMoniker": "Views\\Producto\\EditarProducto.cshtml",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\EditarProducto.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\EditarProducto.cshtml",
               "RelativeToolTip": "Views\\Producto\\EditarProducto.cshtml",
               "ViewState": "AQIAADMAAAAAAAAAAAAAAEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -413,154 +348,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CrearProducto.cshtml",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\CrearProducto.cshtml",
-              "RelativeDocumentMoniker": "Views\\Producto\\CrearProducto.cshtml",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\CrearProducto.cshtml",
-              "RelativeToolTip": "Views\\Producto\\CrearProducto.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T00:42:38.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CrearCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\CrearCliente.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cliente\\CrearCliente.cshtml",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\CrearCliente.cshtml",
-              "RelativeToolTip": "Views\\Cliente\\CrearCliente.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T01:17:52.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ListaProductos.cshtml",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\ListaProductos.cshtml",
-              "RelativeDocumentMoniker": "Views\\Producto\\ListaProductos.cshtml",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\ListaProductos.cshtml",
-              "RelativeToolTip": "Views\\Producto\\ListaProductos.cshtml",
-              "ViewState": "AQIAACMAAAAAAAAAAAAtwDIAAACLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T21:17:05.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DetallesProducto.cshtml",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\DetallesProducto.cshtml",
-              "RelativeDocumentMoniker": "Views\\Producto\\DetallesProducto.cshtml",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\DetallesProducto.cshtml",
-              "RelativeToolTip": "Views\\Producto\\DetallesProducto.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T03:19:09.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ListaClientes.cshtml",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\ListaClientes.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cliente\\ListaClientes.cshtml",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\ListaClientes.cshtml",
-              "RelativeToolTip": "Views\\Cliente\\ListaClientes.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAABlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T02:33:35.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DashboardViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\DashboardViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\DashboardViewModel.cs",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\DashboardViewModel.cs",
-              "RelativeToolTip": "Models\\DashboardViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T02:09:55.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBgAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T02:14:53.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAcwDIAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T02:07:23.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAvwBoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T21:23:49.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\Cliente.cs",
-              "RelativeToolTip": "Models\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T00:44:43.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T02:36:10.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\ApplicationDbContext.cs",
               "RelativeToolTip": "Models\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAjwBIAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -569,37 +361,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "202408290212537_InicialCreate2.cs",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\202408290212537_InicialCreate2.cs",
-              "RelativeDocumentMoniker": "Migrations\\202408290212537_InicialCreate2.cs",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\202408290212537_InicialCreate2.cs",
-              "RelativeToolTip": "Migrations\\202408290212537_InicialCreate2.cs",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T02:12:58.116Z",
+              "WhenOpened": "2024-08-29T00:44:43.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "202408290203105_InicialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\202408290203105_InicialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\202408290203105_InicialCreate.cs",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\202408290203105_InicialCreate.cs",
-              "RelativeToolTip": "Migrations\\202408290203105_InicialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T02:03:14.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 3,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\Producto.cs",
               "RelativeToolTip": "Models\\Producto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -608,11 +387,253 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CrearProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\CrearProducto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producto\\CrearProducto.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\CrearProducto.cshtml",
+              "RelativeToolTip": "Views\\Producto\\CrearProducto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T00:42:38.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetallesProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\DetallesProducto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producto\\DetallesProducto.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\DetallesProducto.cshtml",
+              "RelativeToolTip": "Views\\Producto\\DetallesProducto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T03:19:09.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T02:14:53.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAQwGwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:23:55.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetallesCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\DetallesCliente.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\DetallesCliente.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\DetallesCliente.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\DetallesCliente.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T02:45:45.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EliminarProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\EliminarProducto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producto\\EliminarProducto.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\EliminarProducto.cshtml",
+              "RelativeToolTip": "Views\\Producto\\EliminarProducto.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADsAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T21:16:59.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EliminarCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\EliminarCliente.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\EliminarCliente.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\EliminarCliente.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\EliminarCliente.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T01:20:59.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditarCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\EditarCliente.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\EditarCliente.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\EditarCliente.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\EditarCliente.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T01:48:10.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA8wDgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T00:44:11.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CrearCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\CrearCliente.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\CrearCliente.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\CrearCliente.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\CrearCliente.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T01:17:52.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ListaProductos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\ListaProductos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producto\\ListaProductos.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Producto\\ListaProductos.cshtml",
+              "RelativeToolTip": "Views\\Producto\\ListaProductos.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAtwDIAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T21:17:05.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListaClientes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\ListaClientes.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\ListaClientes.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Cliente\\ListaClientes.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\ListaClientes.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T02:33:35.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Models\\DashboardViewModel.cs",
+              "RelativeToolTip": "Models\\DashboardViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:09:55.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwDIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T02:07:23.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAvwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:23:49.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:36:10.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "202408290212537_InicialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\202408290212537_InicialCreate2.cs",
+              "RelativeDocumentMoniker": "Migrations\\202408290212537_InicialCreate2.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\202408290212537_InicialCreate2.cs",
+              "RelativeToolTip": "Migrations\\202408290212537_InicialCreate2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:12:58.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "202408290203105_InicialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\202408290203105_InicialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\202408290203105_InicialCreate.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\202408290203105_InicialCreate.cs",
+              "RelativeToolTip": "Migrations\\202408290203105_InicialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:03:14.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\JeanpiEUR\\Documents\\PrograAvanzadaProyecto\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Ricky\\Documents\\GitHub\\ProyectoProgramacionAvanzada\\ProyectoProgramacionAvanzada2024\\Migrations\\Configuration.cs",
               "RelativeToolTip": "Migrations\\Configuration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
