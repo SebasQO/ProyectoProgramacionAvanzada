@@ -1,0 +1,18 @@
+﻿namespace ProyectoProgramacionAvanzada2024.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class InicialCreate2 : DbMigration
+    {
+        public override void Up()
+        {
+            DropColumn("dbo.Clientes", "RowVersion");
+        }
+        
+        public override void Down()
+        {
+            AddColumn("dbo.Clientes", "RowVersion", c => c.Binary(nullable: false, fixedLength: true, timestamp: true, storeType: "rowversion"));
+        }
+    }
+}

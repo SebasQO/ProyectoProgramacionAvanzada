@@ -52,7 +52,7 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
 
 
         [HttpGet]
-        public ActionResult EditarProducto(int id)
+        public ActionResult EditarProducto(int? id)
         {
             var producto = db.Productos.Find(id);
             if (producto == null)

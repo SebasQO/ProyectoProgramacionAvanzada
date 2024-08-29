@@ -17,6 +17,7 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
             {
                 TotalUsuarios = db.Usuarios.Count(),
                 TotalProductos = db.Productos.Count(),
+                TotalClientes = db.Clientes.Count(),
                 TotalReseñasPendientes = db.Resenas.Count(),
                 TotalPedidosRecientes = db.Pedidos.Count(),
                 Pedidos = db.Pedidos.ToList()

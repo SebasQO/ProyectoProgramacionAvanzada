@@ -1,0 +1,46 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model IEnumerable<ProyectoProgramacionAvanzada2024.Models.Cliente>
+
+@{
+    ViewBag.Title = "Lista de Clientes";
+}
+
+<h2>Clientes</h2>
+<p>
+    @Html.ActionLink("Crear Cliente", "CrearCliente")
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Correo</th>
+            <th>Teléfono</th>
+            <th>Dirección</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in Model)
+        {
+            <tr>
+                <td>@cliente.ClienteId</td>
+                <td>@cliente.Nombre</td>
+                <td>@cliente.Correo</td>
+                <td>@cliente.Telefono</td>
+                <td>@cliente.Direccion</td>
+                <td>@(cliente.Estado ? "Activo" : "Inactivo")</td>
+                <td>
+                    @Html.ActionLink("Detalles", "DetallesCliente", new { id = cliente.ClienteId }) |
+                    @Html.ActionLink("Editar", "EditarCliente", new { id = cliente.ClienteId }) |
+                    @Html.ActionLink("Eliminar", "EliminarCliente", new { id = cliente.ClienteId })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,37 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model ProyectoProgramacionAvanzada2024.Models.Producto
+
+@{
+    ViewBag.Title = "Detalles del Producto";
+}
+
+
+<div>
+    <h4>Producto</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Código</dt>
+        <dd>@Html.DisplayFor(model => model.CodigoProducto)</dd>
+
+        <dt>Nombre</dt>
+        <dd>@Html.DisplayFor(model => model.NombreProducto)</dd>
+
+        <dt>Precio</dt>
+        <dd>@Html.DisplayFor(model => model.Precio)</dd>
+
+        <dt>Disponibilidad</dt>
+        <dd>@Html.DisplayFor(model => model.Disponibilidad)</dd>
+
+        <dt>Estado</dt>
+        <dd>@Html.DisplayFor(model => model.Estado)</dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "EditarProducto", new { id = Model.CodigoProducto }) |
+    @Html.ActionLink("Eliminar", "EliminarProducto", new { id = Model.CodigoProducto }) |
+    @Html.ActionLink("Volver a la lista", "ListaProductos")
+</p>
