@@ -1,0 +1,31 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model ProyectoProgramacionAvanzada2024.Models.Carrito
+
+@{
+    ViewBag.Title = "Detalles del Carrito";
+}
+
+
+<div>
+    <h4>Producto</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Id</dt>
+        <dd>@Html.DisplayFor(model => model.CarritoId)</dd>
+
+        <dt>Codigo</dt>
+        <dd>@Html.DisplayFor(model => model.CodigoCarrito)</dd>
+
+        <dt>Usuario</dt>
+        <dd>@Html.DisplayFor(model => model.CodigoUsuario)</dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "EditarCarrito", new { id = Model.CodigoCarrito }) |
+    @Html.ActionLink("Eliminar", "EliminarCarrito", new { id = Model.CodigoCarrito }) |
+    @Html.ActionLink("Volver a la lista", "ListaCarritos")
+</p>

@@ -221,10 +221,14 @@
     <Content Include="Views\Cliente\ListaClientes.cshtml" />
     <Content Include="Views\Cliente\DetallesCliente.cshtml" />
     <Content Include="Views\Producto\DetallesProducto.cshtml" />
+    <Content Include="Views\Carrito\CrearCarrito.cshtml" />
+    <Content Include="Views\Carrito\ListaCarritos.cshtml" />
+    <Content Include="Views\Carrito\DetallesCarrito.cshtml" />
+    <Content Include="Views\Carrito\EditarCarrito.cshtml" />
+    <Content Include="Views\Carrito\EliminarCarrito.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Carrito\" />
     <Folder Include="Views\Resena\" />
   </ItemGroup>
   <ItemGroup>
