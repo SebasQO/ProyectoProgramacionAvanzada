@@ -13,19 +13,19 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
         private ApplicationDbContext db = new ApplicationDbContext();
 
         
-        public ActionResult CartList()
+        public ActionResult ListaCarritos()
         {
             var model = db.Carritos.ToList();
             return View(model);
         }
 
         [HttpGet]
-        public ActionResult CreateCart()
+        public ActionResult CrearCarrito()
         {
             return View();
         }
 
-        public ActionResult CreateCart(Carrito cart)
+        public ActionResult CrearCarrito(Carrito cart)
         {
             if (ModelState.IsValid)
             {
@@ -36,7 +36,7 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
             return View(cart);
         }
 
-        public ActionResult CartDetails(int id)
+        public ActionResult DetallesCarrito(int id)
         {
             var cart = db.Carritos.Find(id);
             if (cart == null)
@@ -46,7 +46,7 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
             return View(cart);
         }
 
-        public ActionResult EditCart(int? id)
+        public ActionResult EditarCarrito(int? id)
         {
             var cart = db.Carritos.Find(id);
             if (cart == null)
@@ -58,7 +58,7 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult EditCart(Carrito cart)
+        public ActionResult EditarCarrito(Carrito cart)
         {
             if (ModelState.IsValid)
             {
@@ -70,7 +70,7 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
         }
 
         [HttpGet]
-        public ActionResult DeleteCart(int id)
+        public ActionResult EliminarCarrito(int id)
         {
             var cart = db.Carritos.Find(id);
             if (cart == null)
@@ -80,9 +80,9 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
             return View(cart);
         }
 
-        [HttpPost, ActionName("DeleteCart")]
+        [HttpPost, ActionName("EliminarCarrito")]
         [ValidateAntiForgeryToken]
-        public ActionResult DeleteCartConfirmed(int id)
+        public ActionResult EliminarProductoConfirmed(int id)
         {
             var cart = db.Carritos.Find(id);
             if (cart != null)
