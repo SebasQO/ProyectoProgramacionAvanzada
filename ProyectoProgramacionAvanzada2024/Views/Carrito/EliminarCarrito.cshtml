@@ -49,7 +49,7 @@
             @Html.AntiForgeryToken()
     <div class="form-actions no-color">
         <input type="submit" value="Eliminar" class="btn btn-default" /> |
-        @Html.ActionLink("Cancelar", "ListaCarritos")  | @Html.ActionLink("Editar", "EditarCarrito", new { id = Model.CodigoCarrito })
+        @Html.ActionLink("Cancelar", "ListaCarritos")  | @Html.ActionLink("Editar", "EditarCarrito", new { id = Model.CarritoId })
     </div>
         }
     </div>

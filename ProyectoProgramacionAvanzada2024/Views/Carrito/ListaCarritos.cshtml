@@ -42,9 +42,9 @@
                     @Html.DisplayFor(modelItem => item.CodigoUsuario)
                 </td>
                 <td>
-                    @Html.ActionLink("Detalles", "DetallesCarrito", new { id = item.CodigoCarrito }, new { @class = "btn btn-secondary"}) |
-                    @Html.ActionLink("Editar Carrito", "EditarCarrito", "Carrito", new { id = item.CodigoCarrito }, new { @class = "btn btn-secondary" })
-                    @Html.ActionLink("Eliminar Carrito", "EliminarCarrito", "Carrito", new { id = item.CodigoCarrito }, new { @class = "btn btn-secondary" })
+                    @Html.ActionLink("Detalles", "DetallesCarrito", new { id = item.CarritoId }, new { @class = "btn btn-secondary"}) |
+                    @Html.ActionLink("Editar Carrito", "EditarCarrito", "Carrito", new { id = item.CarritoId }, new { @class = "btn btn-secondary" })
+                    @Html.ActionLink("Eliminar Carrito", "EliminarCarrito", "Carrito", new { id = item.CarritoId }, new { @class = "btn btn-secondary" })
                 </td>
             </tr>
         }
