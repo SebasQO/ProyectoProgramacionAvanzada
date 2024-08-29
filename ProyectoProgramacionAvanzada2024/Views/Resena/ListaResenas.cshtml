@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model IEnumerable<ProyectoProgramacionAvanzada2024.Models.Resena>
+
+@{
+    ViewBag.Title = "Lista de Reseñas";
+}
+
+<h2>Lista de Reseñas</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Código de Reseña</th>
+            <th>Código de Producto</th>
+            <th>Código de Usuario</th>
+            <th>Comentario</th>
+            <th>Calificación</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CodigoResena</td>
+                <td>@item.CodigoProducto</td>
+                <td>@item.CodigoUsuario</td>
+                <td>@item.Comentario</td>
+                <td>@item.Calificacion</td>
+                <td>
+                    @Html.ActionLink("Detalles", "DetallesResena", new { id = item.CodigoResena }) |
+                    @Html.ActionLink("Editar", "EditarResena", new { id = item.CodigoResena }) |
+                    @Html.ActionLink("Eliminar", "EliminarResena", new { id = item.CodigoResena })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@Html.ActionLink("Crear Nueva Reseña", "CrearResena", null, new { @class = "btn btn-primary" })

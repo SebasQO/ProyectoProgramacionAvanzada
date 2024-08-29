@@ -23,9 +23,25 @@
                     <li>
                         @Html.ActionLink("Lista Productos", "ListaProductos", "Producto", new { area = "" }, new { @class = "nav-link" })
                     </li>
-                    <li>
-                        @Html.ActionLink("Lista Clientes", "ListaClientes", "Cliente", new { area = "" }, new { @class = "nav-link" })
+
+                    @Html.ActionLink("Lista Clientes", "ListaClientes", "Cliente", new { area = "" }, new { @class = "nav-link" })
                     </li>
+
+                    <li>
+                        @Html.ActionLink("Lista Carritos ", "ListaCarritos", "Carrito", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+
+                    <li>
+                        @Html.ActionLink("Lista Pedidos", "ListaPedidos", "Pedido", new { area = "" }, new { @class = "nav-link" })
+                    <li>
+
+                    <li>
+                        @Html.ActionLink("Lista Historial Compras", "ListaCompras", "HistorialCompra", new { area = "" }, new { @class = "nav-link" })
+                    <li>
+
+                    <li>
+                        @Html.ActionLink("Lista Reseñas", "ListaResenas", "Resena", new { area = "" }, new { @class = "nav-link" })
+                    <li>
 
                 </ul>
             </div>

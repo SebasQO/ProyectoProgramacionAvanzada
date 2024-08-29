@@ -13,7 +13,7 @@
 </head>
 <body>
     <p>
-        @Html.ActionLink("Crear Carrito", "CrearCarrito")
+        @Html.ActionLink("Crear Nuevo Carrito", "CrearCarrito")
     </p>
     <table class="table">
         <tr>
@@ -43,8 +43,8 @@
                 </td>
                 <td>
                     @Html.ActionLink("Detalles", "DetallesCarrito", new { id = item.CarritoId }, new { @class = "btn btn-secondary"}) |
-                    @Html.ActionLink("Editar Carrito", "EditarCarrito", "Carrito", new { id = item.CarritoId }, new { @class = "btn btn-secondary" })
-                    @Html.ActionLink("Eliminar Carrito", "EliminarCarrito", "Carrito", new { id = item.CarritoId }, new { @class = "btn btn-secondary" })
+                    @Html.ActionLink("Editar", "EditarCarrito", "Carrito", new { id = item.CarritoId }, new { @class = "btn btn-secondary" })
+                    @Html.ActionLink("Eliminar", "EliminarCarrito", "Carrito", new { id = item.CarritoId }, new { @class = "btn btn-secondary" })
                 </td>
             </tr>
         }

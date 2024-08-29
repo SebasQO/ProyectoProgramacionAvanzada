@@ -3,7 +3,7 @@
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class InitialCreate : DbMigration
+    public partial class InicialCreateMejorasCRUDPedidos : DbMigration
     {
         public override void Up()
         {
@@ -16,6 +16,30 @@
                         CodigoUsuario = c.Int(nullable: false),
                     })
                 .PrimaryKey(t => t.CarritoId);
+            
+            CreateTable(
+                "dbo.Clientes",
+                c => new
+                    {
+                        ClienteId = c.Int(nullable: false, identity: true),
+                        Nombre = c.String(nullable: false, maxLength: 100),
+                        Correo = c.String(nullable: false, maxLength: 100),
+                        Telefono = c.String(nullable: false),
+                        Direccion = c.String(maxLength: 200),
+                        Estado = c.Boolean(nullable: false),
+                    })
+                .PrimaryKey(t => t.ClienteId);
+            
+            CreateTable(
+                "dbo.HistorialCompras",
+                c => new
+                    {
+                        Id = c.Int(nullable: false, identity: true),
+                        CodigoUsuario = c.Int(nullable: false),
+                        CodigoProducto = c.Int(nullable: false),
+                        FechaCompra = c.DateTime(nullable: false),
+                    })
+                .PrimaryKey(t => t.Id);
             
             CreateTable(
                 "dbo.Pedidoes",
@@ -93,6 +117,8 @@
             DropTable("dbo.ProductoCarritoes");
             DropTable("dbo.Productoes");
             DropTable("dbo.Pedidoes");
+            DropTable("dbo.HistorialCompras");
+            DropTable("dbo.Clientes");
             DropTable("dbo.Carritoes");
         }
     }

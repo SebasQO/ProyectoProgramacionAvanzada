@@ -6,14 +6,14 @@ namespace ProyectoProgramacionAvanzada2024.Migrations
     using System.Data.Entity.Migrations.Infrastructure;
     using System.Resources;
     
-    [GeneratedCode("EntityFramework.Migrations", "6.4.4")]
-    public sealed partial class AddHistorialCompra : IMigrationMetadata
+    [GeneratedCode("EntityFramework.Migrations", "6.5.1")]
+    public sealed partial class InicialCreateMejorasCRUDPedidos : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(AddHistorialCompra));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(InicialCreateMejorasCRUDPedidos));
         
         string IMigrationMetadata.Id
         {
-            get { return "202408292123248_AddHistorialCompra"; }
+            get { return "202408292155112_InicialCreateMejorasCRUDPedidos"; }
         }
         
         string IMigrationMetadata.Source

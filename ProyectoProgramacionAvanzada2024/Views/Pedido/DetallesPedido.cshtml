@@ -1,0 +1,43 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model ProyectoProgramacionAvanzada2024.Models.Pedido
+
+@{
+    ViewBag.Title = "Detalles del Pedido";
+}
+
+<h2>Detalles del Pedido</h2>
+
+<div>
+    <h4>Pedido</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CodigoPedido)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CodigoPedido)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CodigoUsuario)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CodigoUsuario)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Editar", "EditarPedido", new { id = Model.CodigoPedido }, new { @class = "btn btn-primary" }) |
+    @Html.ActionLink("Eliminar", "EliminarPedido", new { id = Model.CodigoPedido }, new { @class = "btn btn-danger" }) |
+    @Html.ActionLink("Volver a la Lista", "ListaPedidos", null, new { @class = "btn btn-secondary" })
+</p>

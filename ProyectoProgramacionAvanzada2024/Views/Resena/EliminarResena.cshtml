@@ -1,0 +1,58 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model ProyectoProgramacionAvanzada2024.Models.Resena
+
+@{
+    ViewBag.Title = "Eliminar Reseña";
+}
+
+<h2>Eliminar Reseña</h2>
+
+<h3>¿Estás seguro que deseas eliminar esta reseña?</h3>
+<div class="form-horizontal">
+    <div class="form-group">
+        @Html.LabelFor(model => model.CodigoResena, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DisplayFor(model => model.CodigoResena)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.CodigoProducto, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DisplayFor(model => model.CodigoProducto)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.CodigoUsuario, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DisplayFor(model => model.CodigoUsuario)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Comentario, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DisplayFor(model => model.Comentario)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Calificacion, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DisplayFor(model => model.Calificacion)
+        </div>
+    </div>
+</div>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Eliminar" class="btn btn-danger" />
+            @Html.ActionLink("Cancelar", "ListaResenas", null, new { @class = "btn btn-secondary" }) |
+            @Html.ActionLink("Editar", "EditarResena", new { id = Model.CodigoResena })
+        </div>
+    </div>
+}

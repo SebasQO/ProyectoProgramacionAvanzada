@@ -43,6 +43,7 @@
             @Html.AntiForgeryToken()
             <input type="submit" value="Eliminar" class="btn btn-danger" />
             @Html.ActionLink("Volver a la Lista", "ListaCompras", null, new { @class = "btn btn-default" })
+            @Html.ActionLink("Editar", "EditarCompra", new { id = Model.Id })
         }
     </div>
 </body>

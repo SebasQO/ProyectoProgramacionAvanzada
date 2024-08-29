@@ -83,8 +83,7 @@
                         <td>@pedido.CodigoUsuario</td>
                         <td>@pedido.Fecha.ToShortDateString()</td>
                         <td>
-                            <a href="@Url.Action("Detalles", "Pedido", new { id = pedido.CodigoPedido })">Ver Detalles</a>
-                            @Html.ActionLink("Detalles", "Detalles", "Pedido", new { id = pedido.CodigoPedido }, new { @class = "btn btn-secondary" })
+                            @Html.ActionLink("Detalles", "DetallesPedido", "Pedido", new { id = pedido.CodigoPedido }, new { @class = "btn btn-secondary" })
 
                         </td>
                     </tr>

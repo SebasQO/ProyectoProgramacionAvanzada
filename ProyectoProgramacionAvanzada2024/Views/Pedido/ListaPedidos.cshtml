@@ -13,7 +13,7 @@
 </head>
 <body>
     <p>
-        @Html.ActionLink("Create New", "Create")
+        @Html.ActionLink("Crear Nuevo Pedido", "CrearPedido")
     </p>
     <table class="table">
         <tr>
@@ -36,8 +36,9 @@
                     @Html.DisplayFor(modelItem => item.Fecha)
                 </td>
                 <td>
-                    @Html.ActionLink("Edit", "EditarPedido", new { id = item.CodigoPedido })                
-                    @Html.ActionLink("Delete", "EliminarPedido", new { id = item.CodigoPedido })
+                    @Html.ActionLink("Detalles", "DetallesPedido", new { id =item.CodigoPedido }, new { @class = "btn btn-secondary" })|
+                    @Html.ActionLink("Editar", "EditarPedido", new { id = item.CodigoPedido }, new { @class = "btn btn-secondary" }) |
+                    @Html.ActionLink("Eliminar", "EliminarPedido", new { id = item.CodigoPedido }, new { @class = "btn btn-secondary" })
                 </td>
             </tr>
         }

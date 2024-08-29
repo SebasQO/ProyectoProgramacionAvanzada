@@ -31,7 +31,7 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
             {
                 db.Carritos.Add(cart);
                 db.SaveChanges();
-                return RedirectToAction("CartList");
+                return RedirectToAction("ListaCarritos");
             }
             return View(cart);
         }

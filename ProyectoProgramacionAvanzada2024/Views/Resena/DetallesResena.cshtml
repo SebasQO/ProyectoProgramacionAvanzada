@@ -1,0 +1,50 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model ProyectoProgramacionAvanzada2024.Models.Resena
+
+@{
+    ViewBag.Title = "Detalles de la Reseña";
+}
+
+<h2>Detalles de la Reseña</h2>
+
+<div class="form-horizontal">
+    <div class="form-group">
+        @Html.LabelFor(model => model.CodigoResena, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DisplayFor(model => model.CodigoResena)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.CodigoProducto, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DisplayFor(model => model.CodigoProducto)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.CodigoUsuario, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DisplayFor(model => model.CodigoUsuario)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Comentario, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DisplayFor(model => model.Comentario)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Calificacion, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DisplayFor(model => model.Calificacion)
+        </div>
+    </div>
+</div>
+
+<p>
+    @Html.ActionLink("Editar", "EditarResena", new { id = Model.CodigoResena }, new { @class = "btn btn-primary" }) |
+    @Html.ActionLink("Eliminar", "EliminarResena", new { id = Model.CodigoResena }, new { @class = "btn btn-primary" })|
+    @Html.ActionLink("Volver a la Lista", "ListaResenas", null, new { @class = "btn btn-secondary" })
+</p>

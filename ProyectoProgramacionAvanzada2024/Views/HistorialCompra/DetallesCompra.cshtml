@@ -40,6 +40,7 @@
         </dl>
         <div>
             @Html.ActionLink("Editar", "EditarCompra", new { id = Model.Id }, new { @class = "btn btn-primary" })
+            @Html.ActionLink("Eliminar", "EliminarCompra", new { id = Model.Id }, new { @class = "btn btn-primary" })
             @Html.ActionLink("Volver a la Lista", "ListaCompras", null, new { @class = "btn btn-default" })
         </div>
     </div>

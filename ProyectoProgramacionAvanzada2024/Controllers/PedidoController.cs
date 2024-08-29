@@ -12,10 +12,29 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
     {
         private ApplicationDbContext db = new ApplicationDbContext();
 
-        public ActionResult ListaPedido()
+        public ActionResult ListaPedidos()
         {
             var model = db.Pedidos.ToList();
             return View(model);
+        }
+
+        [HttpGet]
+        public ActionResult CrearPedido()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult CrearPedido(Pedido pedido)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Pedidos.Add(pedido);
+                db.SaveChanges();
+                return RedirectToAction("ListaPedidos");
+            }
+            return View(pedido);
         }
 
         public ActionResult OrderHistory()
@@ -35,14 +54,14 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
             return View();
         }
 
-        public ActionResult Detalles(int id)
+        public ActionResult DetallesPedido(int id)
         {
             var pedido = db.Pedidos.Find(id);
             if (pedido == null)
             {
                 return HttpNotFound();
             }
-            return View("DetallesPedido", pedido); // Asegúrate de que el nombre coincida
+            return View(pedido); // Asegúrate de que el nombre coincida
         }
 
         [HttpGet]
@@ -64,7 +83,7 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
             {
                 db.Entry(pedido).State = EntityState.Modified;
                 db.SaveChanges();
-                return RedirectToAction("ListaPedido", new { id = pedido.CodigoPedido });
+                return RedirectToAction("ListaPedidos", new { id = pedido.CodigoPedido });
             }
             return View(pedido);
         }
@@ -90,7 +109,7 @@ namespace ProyectoProgramacionAvanzada2024.Controllers
                 db.Pedidos.Remove(pedido);
                 db.SaveChanges();
             }
-            return RedirectToAction("ListaPedido");
+            return RedirectToAction("ListaPedidos");
         }
     }
 }

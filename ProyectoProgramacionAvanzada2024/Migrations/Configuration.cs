@@ -10,7 +10,6 @@
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
-            ContextKey = "ProyectoProgramacionAvanzada2024.Models.ApplicationDbContext";
         }
 
         protected override void Seed(ProyectoProgramacionAvanzada2024.Models.ApplicationDbContext context)

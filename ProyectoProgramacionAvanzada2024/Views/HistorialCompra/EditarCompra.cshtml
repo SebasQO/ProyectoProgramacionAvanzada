@@ -54,9 +54,11 @@
             </div>
         }
 
-        <div>
-            @Html.ActionLink("Volver a la Lista", "ListaCompras", null, new { @class = "btn btn-default" })
-        </div>
+    <div>
+        @Html.ActionLink("Detalles", "DetallesCompra", new { id = Model.Id }) |
+        @Html.ActionLink("Eliminar", "EliminarCompra", new { id = Model.Id }) |
+        @Html.ActionLink("Volver a la Lista", "ListaCompras", null, new { @class = "btn btn-default" })
+    </div>
     </div>
 </body>
 </html>

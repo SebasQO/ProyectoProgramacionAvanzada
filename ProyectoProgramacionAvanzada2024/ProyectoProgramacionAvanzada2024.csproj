@@ -130,21 +130,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202408280319550_InitialCreate.cs" />
-    <Compile Include="Migrations\202408280319550_InitialCreate.Designer.cs">
-      <DependentUpon>202408280319550_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202408290203105_InicialCreate.cs" />
-    <Compile Include="Migrations\202408290203105_InicialCreate.Designer.cs">
-      <DependentUpon>202408290203105_InicialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202408290212537_InicialCreate2.cs" />
-    <Compile Include="Migrations\202408290212537_InicialCreate2.Designer.cs">
-      <DependentUpon>202408290212537_InicialCreate2.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202408292123248_AddHistorialCompra.cs" />
-    <Compile Include="Migrations\202408292123248_AddHistorialCompra.Designer.cs">
-      <DependentUpon>202408292123248_AddHistorialCompra.cs</DependentUpon>
+    <Compile Include="Migrations\202408292155112_InicialCreateMejorasCRUDPedidos.cs" />
+    <Compile Include="Migrations\202408292155112_InicialCreateMejorasCRUDPedidos.Designer.cs">
+      <DependentUpon>202408292155112_InicialCreateMejorasCRUDPedidos.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -218,7 +206,7 @@
     <Content Include="Views\Producto\EditarProducto.cshtml" />
     <Content Include="Views\Producto\CrearProducto.cshtml" />
     <Content Include="Views\Producto\EliminarProducto.cshtml" />
-    <Content Include="Views\Pedido\ListaPedido.cshtml" />
+    <Content Include="Views\Pedido\ListaPedidos.cshtml" />
     <Content Include="Views\Pedido\CrearPedido.cshtml" />
     <Content Include="Views\Pedido\EditarPedido.cshtml" />
     <Content Include="Views\Pedido\EliminarPedido.cshtml" />
@@ -239,10 +227,15 @@
     <Content Include="Views\HistorialCompra\EditarCompra.cshtml" />
     <Content Include="Views\HistorialCompra\EliminarCompra.cshtml" />
     <Content Include="Views\HistorialCompra\ListaCompras.cshtml" />
+    <Content Include="Views\Resena\ListaResenas.cshtml" />
+    <Content Include="Views\Resena\DetallesResena.cshtml" />
+    <Content Include="Views\Resena\CrearResena.cshtml" />
+    <Content Include="Views\Resena\EditarResena.cshtml" />
+    <Content Include="Views\Resena\EliminarResena.cshtml" />
+    <Content Include="Views\Pedido\DetallesPedido.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Resena\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />
@@ -272,17 +265,8 @@
     <Content Include="Scripts\jquery-3.7.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202408280319550_InitialCreate.resx">
-      <DependentUpon>202408280319550_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202408290203105_InicialCreate.resx">
-      <DependentUpon>202408290203105_InicialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202408290212537_InicialCreate2.resx">
-      <DependentUpon>202408290212537_InicialCreate2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202408292123248_AddHistorialCompra.resx">
-      <DependentUpon>202408292123248_AddHistorialCompra.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202408292155112_InicialCreateMejorasCRUDPedidos.resx">
+      <DependentUpon>202408292155112_InicialCreateMejorasCRUDPedidos.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
