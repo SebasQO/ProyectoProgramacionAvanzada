@@ -2,3 +2,5 @@
 *.mdf/
 *.ldf/
 App_Data/
+*.mdf
+*.ldf
