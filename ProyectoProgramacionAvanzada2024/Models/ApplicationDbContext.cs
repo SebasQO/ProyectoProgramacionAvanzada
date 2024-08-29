@@ -15,6 +15,7 @@ namespace ProyectoProgramacionAvanzada2024.Models
         public DbSet<Resena> Resenas { get; set; }
         public DbSet<Carrito> Carritos { get; set; }
         public DbSet<Pedido> Pedidos { get; set; }
+        public DbSet<HistorialCompra> HistorialCompras { get; set; }
         public DbSet<ProductoCarrito> ProductosCarrito { get; set; }
         public DbSet<ProductoPedido> ProductosPedido { get; set; }
 }

@@ -120,6 +120,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\CarritoController.cs" />
     <Compile Include="Controllers\ClienteController.cs" />
+    <Compile Include="Controllers\HistorialCompraController.cs" />
     <Compile Include="Controllers\ContactController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PedidoController.cs" />
@@ -141,11 +142,16 @@
     <Compile Include="Migrations\202408290212537_InicialCreate2.Designer.cs">
       <DependentUpon>202408290212537_InicialCreate2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202408292123248_AddHistorialCompra.cs" />
+    <Compile Include="Migrations\202408292123248_AddHistorialCompra.Designer.cs">
+      <DependentUpon>202408292123248_AddHistorialCompra.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
     <Compile Include="Models\Carrito.cs" />
     <Compile Include="Models\Cliente.cs" />
     <Compile Include="Models\DashboardViewModel.cs" />
+    <Compile Include="Models\HistorialCompra.cs" />
     <Compile Include="Models\Pedido.cs" />
     <Compile Include="Models\Producto.cs" />
     <Compile Include="Models\ProductoCarrito.cs" />
@@ -228,6 +234,11 @@
     <Content Include="Views\Carrito\EditarCarrito.cshtml" />
     <Content Include="Views\Carrito\EliminarCarrito.cshtml" />
     <Content Include="Views\Contact\Contact.cshtml" />
+    <Content Include="Views\HistorialCompra\CrearCompra.cshtml" />
+    <Content Include="Views\HistorialCompra\DetallesCompra.cshtml" />
+    <Content Include="Views\HistorialCompra\EditarCompra.cshtml" />
+    <Content Include="Views\HistorialCompra\EliminarCompra.cshtml" />
+    <Content Include="Views\HistorialCompra\ListaCompras.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -269,6 +280,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202408290212537_InicialCreate2.resx">
       <DependentUpon>202408290212537_InicialCreate2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408292123248_AddHistorialCompra.resx">
+      <DependentUpon>202408292123248_AddHistorialCompra.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -1,0 +1,49 @@
+﻿@model ProyectoProgramacionAvanzada2024.Models.HistorialCompra
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Eliminar Compra</title>
+</head>
+<body>
+    <div class="container">
+        <h2>Eliminar Compra</h2>
+        <hr />
+        <h3>¿Está seguro que desea eliminar esta compra?</h3>
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.CodigoUsuario)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.CodigoUsuario)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.CodigoProducto)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.CodigoProducto)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.FechaCompra)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.FechaCompra)
+            </dd>
+        </dl>
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            <input type="submit" value="Eliminar" class="btn btn-danger" />
+            @Html.ActionLink("Volver a la Lista", "ListaCompras", null, new { @class = "btn btn-default" })
+        }
+    </div>
+</body>
+</html>
